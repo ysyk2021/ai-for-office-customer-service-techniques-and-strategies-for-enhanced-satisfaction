@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-==============================================================================================================
 
 Artificial Intelligence (AI) is rapidly evolving, and new technologies are emerging that have the potential to transform customer service operations. In this chapter, we will discuss how AI can unlock new opportunities for customer service.
 

@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-==============================================================================================================
 
 Artificial Intelligence (AI) has revolutionized the way customer service is delivered in today's world. With AI-powered tools and technologies, organizations can provide efficient and personalized customer service, improving customer satisfaction and loyalty. In this chapter, we will discuss the available tools and technologies for AI-driven customer service.
 

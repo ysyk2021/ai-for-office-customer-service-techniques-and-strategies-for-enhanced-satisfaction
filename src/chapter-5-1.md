@@ -1,5 +1,3 @@
-Automated Ticket Routing and Escalation using AI
-===========================================================================================================
 
 One of the biggest challenges for customer service teams is ensuring that incoming tickets are handled efficiently and effectively. In this chapter, we will explore how AI can be used to automate ticket routing and escalation, improving efficiency and reducing response times.
 

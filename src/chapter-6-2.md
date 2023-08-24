@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-===========================================================================================================
 
 As organizations increasingly incorporate artificial intelligence (AI) into customer service operations, it is important to carefully manage the ethical and bias risks associated with AI. In this chapter, we will discuss how to mitigate these risks and ensure compliance with relevant regulations.
 

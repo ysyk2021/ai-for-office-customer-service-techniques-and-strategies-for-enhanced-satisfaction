@@ -1,5 +1,3 @@
-Personalized Customer Interactions using AI
-=============================================================================================
 
 Personalization is key to providing exceptional customer experience. Customers want to feel valued and understood by the organizations they interact with. With Artificial Intelligence (AI) powered personalized customer interactions, organizations can create tailored experiences that meet customers' unique needs. In this chapter, we will discuss the benefits of using AI-powered personalized customer interactions.
 

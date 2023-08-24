@@ -1,5 +1,3 @@
-Understanding the Role of AI in Office Customer Service
-==========================================================================================================
 
 Artificial Intelligence (AI) has transformed the way customer service is conducted in today's world. In this chapter, we will discuss the role of AI in office customer service.
 

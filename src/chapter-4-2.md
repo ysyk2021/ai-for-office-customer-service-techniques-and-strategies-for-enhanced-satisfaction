@@ -1,5 +1,3 @@
-AI-Powered Chatbots for Customer Service
-==========================================================================================
 
 One of the most common uses of Artificial Intelligence (AI) in customer service is through chatbots. Chatbots are computer programs that simulate conversation with customers, providing them with quick and efficient solutions to their queries. In this chapter, we will discuss the benefits of using AI-powered chatbots for customer service.
 

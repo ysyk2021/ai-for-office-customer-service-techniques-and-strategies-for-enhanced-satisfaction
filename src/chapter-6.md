@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Customer Service
-=================================================================
 
 As artificial intelligence (AI) becomes more prevalent in customer service, it is essential to manage the ethical and bias risks associated with these systems. In this chapter, we will discuss the importance of ethical and unbiased customer service and strategies to mitigate risks and ensure compliance.
 
