@@ -12,3 +12,7 @@ In the following chapters, we will explore the various ways in which AI can be u
 By the end of this book, you will have a solid understanding of how AI can be used to revolutionize customer service, and the tools and techniques needed to succeed in this new era of customer-centric business.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
