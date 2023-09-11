@@ -1,5 +1,4 @@
-Chapter 5: Real-Time Monitoring and Alerts for Service Interruptions
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of real-time monitoring and alerts for service interruptions in AI-powered office customer service. By implementing effective monitoring strategies and leveraging alerts, organizations can promptly identify and address issues that may impact customer satisfaction. This chapter will explore techniques and best practices for proactive service interruption management.
 

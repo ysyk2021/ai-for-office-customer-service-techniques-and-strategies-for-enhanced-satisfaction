@@ -1,5 +1,4 @@
-Chapter 7: Automated Ticket Routing and Escalation Using AI
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the power of AI in automating ticket routing and escalation processes for office customer service. By leveraging AI technologies, organizations can streamline and optimize the handling of customer inquiries, ensuring that tickets are directed to the right teams or individuals in a timely manner. This chapter will delve into the techniques and strategies for implementing automated ticket routing and escalation using AI.
 

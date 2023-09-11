@@ -1,5 +1,4 @@
-Chapter 2: Selecting the Right Tools for Your Business Needs
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of selecting the right AI tools for your office customer service needs. By understanding your specific business requirements and evaluating available tools, you can choose the most suitable AI solutions to enhance customer satisfaction and streamline your customer service processes.
 

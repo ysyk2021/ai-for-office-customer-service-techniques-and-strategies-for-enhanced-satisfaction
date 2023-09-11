@@ -1,5 +1,4 @@
-Chapter 6: Mitigating Risks and Ensuring Compliance
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how to mitigate risks and ensure compliance when implementing AI for office customer service. While AI technologies offer numerous benefits, it is crucial to address potential risks associated with privacy, security, bias, and ethical considerations. By adopting appropriate strategies and practices, organizations can navigate these challenges and provide enhanced satisfaction to customers while maintaining compliance with regulations and ethical standards.
 
